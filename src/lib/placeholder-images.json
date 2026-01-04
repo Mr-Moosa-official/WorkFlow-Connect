@@ -1,3 +1,76 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A modern workspace with people collaborating.",
+      "imageUrl": "https://images.unsplash.com/photo-1622675363311-3e1904dc1885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3Njc1NjI2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "project-1",
+      "description": "Abstract design of a mobile app UI.",
+      "imageUrl": "https://images.unsplash.com/photo-1690369519543-c81a2121f740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcHAlMjBkZXNpZ258ZW58MHx8fHwxNzY3NTY0NTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app design"
+    },
+    {
+      "id": "project-2",
+      "description": "Code on a screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWIlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE3Njc0NTA5MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web development"
+    },
+    {
+      "id": "project-3",
+      "description": "A person writing content in a notebook.",
+      "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb250ZW50JTIwd3JpdGluZ3xlbnwwfHx8fDE3Njc1NjQ1MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "content writing"
+    },
+    {
+      "id": "project-4",
+      "description": "Marketing analytics dashboard on a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8fHx8MTc2NzU1MDMxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital marketing"
+    },
+    {
+      "id": "project-5",
+      "description": "Architectural blueprints on a table.",
+      "imageUrl": "https://images.unsplash.com/photo-1617761141732-d481912af1a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhcmNoaXRlY3R1cmFsJTIwZGVzaWdufGVufDB8fHx8MTc2NzU2NDUzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architectural design"
+    },
+    {
+      "id": "project-6",
+      "description": "Graphic design software on a computer screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmFwaGljJTIwZGVzaWdufGVufDB8fHx8MTc2NzQ4MjU0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "user-1",
+      "description": "Profile picture of a smiling woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NzQ1MDI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user-2",
+      "description": "Profile picture of a man with glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1NjE3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "user-3",
+      "description": "Profile picture of a person looking thoughtful.",
+      "imageUrl": "https://images.unsplash.com/photo-1493612276216-ee3925520721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjB0aGlua2luZ3xlbnwwfHx8fDE3Njc1MTYwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person thinking"
+    },
+    {
+      "id": "user-4",
+      "description": "Profile picture of a woman with curly hair.",
+      "imageUrl": "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2NzUyNjUxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "user-5",
+      "description": "Profile picture of a man in a suit.",
+      "imageUrl": "https://images.unsplash.com/photo-1720672284660-cfecee298779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzY3NDYxMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man professional"
+    }
+  ]
 }
